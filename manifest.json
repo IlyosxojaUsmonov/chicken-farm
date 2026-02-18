@@ -8,17 +8,17 @@
   "theme_color": "#FFD700",
   "icons": [
   {
-    "src": "/public/chickenfarm.png",
+    "src": "/chickenfarm.png",
     "sizes": "192x192",
     "type": "image/png"
   },
   {
-    "src": "/public/chickenfarm.png",
+    "src": "/chickenfarm.png",
     "sizes": "512x512",
     "type": "image/png"
   },
   {
-    "src": "/public/chickenfarm.png",
+    "src": "/chickenfarm.png",
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "maskable"
